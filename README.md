@@ -22,7 +22,7 @@ CSS: Styling and customizations.
 JavaScript: Interactive features.
 Neogym Free CSS Template: Link to Template
 
-𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗧𝗮𝘀𝗸
+𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗧𝗮𝘀𝗸𝘀
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮:𝗙𝗼𝗿𝗺 𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗼𝗻
 Showcases form validation techniques using JavaScript to ensure correct user inputs.
