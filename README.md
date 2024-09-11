@@ -22,6 +22,7 @@ JavaScript: Interactive features.
 Neogym Free CSS Template: Link to Template
 
 𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗧𝗮𝘀𝗸
+
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮: Form Validation
 Showcases form validation techniques using JavaScript to ensure correct user inputs.
 
@@ -53,6 +54,8 @@ Technologies Used
 HTML: Content structure.
 CSS: Styling and design adjustments.
 JavaScript: Interactive elements and form validation.
+
+
 
 
 
