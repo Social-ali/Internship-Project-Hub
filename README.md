@@ -1,7 +1,7 @@
 Welcome to my project repository! Here, you’ll find a collection of web projects showcasing various levels of complexity and skills.
 
-Basic Task
-Project #1: Gym Website
+𝗕𝗮𝘀𝗶𝗰 𝗧𝗮𝘀𝗸
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭: Gym Website
 Utilizes the Neogym Free CSS Template to create a visually appealing gym website with essential features.
 
 Features
@@ -20,8 +20,8 @@ CSS: Styling and customizations.
 JavaScript: Interactive features.
 Neogym Free CSS Template: Link to Template
 
-Intermediate Task
-Project #2: Form Validation
+𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲 𝗧𝗮𝘀𝗸
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮: Form Validation
 Showcases form validation techniques using JavaScript to ensure correct user inputs.
 
 Features
@@ -35,7 +35,8 @@ HTML: Structuring the form.
 CSS: Styling the form and error messages.
 JavaScript: Handling form validation.
 
-Project #3: Coffee Website
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟯: Coffee Website
 An interactive website for a coffee shop, featuring a dynamic menu and order form.
 
 Features
