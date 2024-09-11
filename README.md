@@ -1,6 +1,7 @@
 Welcome to my project repository! Here, you’ll find a collection of web projects showcasing various levels of complexity and skills.
 
 𝗕𝗮𝘀𝗶𝗰 𝗧𝗮𝘀𝗸
+
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭: Gym Website
 Utilizes the Neogym Free CSS Template to create a visually appealing gym website with essential features.
 
