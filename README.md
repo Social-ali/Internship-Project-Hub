@@ -1,4 +1,5 @@
-Welcome to my project repository! Here, you’ll find a collection of web projects showcasing various levels of complexity and skills.
+                                                🌟𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆!🌟
+Here, you’ll find a collection of web projects showcasing various levels of complexity and skills.
 
 𝗕𝗮𝘀𝗶𝗰 𝗧𝗮𝘀𝗸
 
