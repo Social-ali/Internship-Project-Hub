@@ -81,6 +81,8 @@ CSS: Styling and layout adjustments for a polished look.
 JavaScript: Logic for generating PDFs with pdf-lib and handling file downloads with FileSaver.js.
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟲: 𝗘𝘅𝗽𝗲𝗻𝘀𝗲 𝗧𝗿𝗮𝗰𝗸𝗲𝗿
+An intuitive and interactive web-based application designed to help users track their daily expenses and income with ease.
+
 Key Features:
 Home Page: A clean and simple interface displaying the expense tracking form along with the list of transactions and a summary of total balance, income, and expenses.
 Real-time Updates: Automatically updates the total balance, income, and expense summary as users add, edit, or delete transactions.
