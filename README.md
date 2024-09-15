@@ -88,9 +88,6 @@ Home Page: A clean and simple interface displaying the expense tracking form alo
 Real-time Updates: Automatically updates the total balance, income, and expense summary as users add, edit, or delete transactions.
 Local Storage: Saves all transaction data locally in the browser, ensuring users don’t lose their data upon refresh or closing the application.
 Delete and Edit Options: Allows users to easily manage their transactions by editing or removing entries.
-Customizations:
-Design Enhancements: The application uses custom CSS styles to enhance the look and feel, making it visually appealing and user-friendly.
-Interactive Elements: JavaScript handles dynamic updates, real-time calculations, and manages local storage for the transactions.
 Responsive Layout: The layout is fully responsive, ensuring the application looks and functions well across all device types, from desktops to smartphones.
 Technologies Used:
 HTML: Provides the structure and form layout for the expense tracker.
