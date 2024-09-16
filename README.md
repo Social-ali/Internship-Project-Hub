@@ -69,4 +69,20 @@ HTML: Provides the structure of the application.
 CSS: Styles the app for a modern and user-friendly experience.
 JavaScript: Handles currency conversion and real-time rate updates.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟵: 𝗗𝗶𝗰𝘁𝗶𝗼𝗻𝗮𝗿𝘆 𝗔𝗽𝗽
+An intuitive web application for looking up word definitions and meanings.
+
+Features:
+
+Home Page: User-friendly interface for quick word searches.
+Word Lookup: Search for definitions and meanings of words.
+Search Suggestions: Provides suggestions as users type to help find words faster.
+Detailed Definitions: Displays comprehensive definitions and usage examples.
+Responsive Design: Works seamlessly on both desktop and mobile devices.
+Technologies Used:
+
+HTML: Structures the application for easy navigation.
+CSS: Styles the app to create a clean and readable layout.
+JavaScript: Implements search functionality and fetches word data from APIs.
+
 
