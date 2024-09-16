@@ -53,3 +53,20 @@ HTML: Defines the structure of the drawing application.
 CSS: Styles the application for a clean and engaging look.
 JavaScript: Implements drawing logic, tool selection, and image saving functionality.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟴: 𝗠𝗼𝗻𝗲𝘆 𝗘𝘅𝗰𝗵𝗮𝗻𝗴𝗲𝗿
+A simple web application for converting currencies with real-time exchange rates.
+
+Features:
+Home Page: Clean interface for easy currency conversion.
+Currency Selection: Choose from multiple currencies for conversion.
+Exchange Rates: Displays real-time exchange rates for accurate conversions.
+Conversion Tool: Input and convert amounts between selected currencies.
+Responsive Design: Accessible on both desktop and mobile devices.
+
+Technologies Used:
+
+HTML: Provides the structure of the application.
+CSS: Styles the app for a modern and user-friendly experience.
+JavaScript: Handles currency conversion and real-time rate updates.
+
+
