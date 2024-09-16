@@ -47,12 +47,8 @@ Shape Tools: Allows users to create various shapes including rectangles, circles
 Brush and Eraser: Includes brush and eraser tools with adjustable sizes for precise drawing and editing.
 Color Customization: Offers a color picker and predefined color options for dynamic and colorful creations.
 Canvas Management: Users can clear the canvas and save their artwork as an image file directly from the browser.
-Customizations:
 
-Design Enhancements: Provides custom styles and responsive layout for an intuitive user experience on different devices.
-Interactive Elements: Utilizes JavaScript for handling user input, drawing shapes, and managing canvas operations.
 Technologies Used:
-
 HTML: Defines the structure of the drawing application.
 CSS: Styles the application for a clean and engaging look.
 JavaScript: Implements drawing logic, tool selection, and image saving functionality.
