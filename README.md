@@ -85,4 +85,22 @@ HTML: Structures the application for easy navigation.
 CSS: Styles the app to create a clean and readable layout.
 JavaScript: Implements search functionality and fetches word data from APIs.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟬: 𝗜𝗺𝗮𝗴𝗲 𝗘𝗱𝗶𝘁𝗼𝗿 𝗶𝗻 𝗝𝗦
+An intuitive web-based image editing application for modifying and enhancing images.
+
+Features:
+
+Image Upload: Easily upload images for editing.
+Editing Tools: Crop, resize, and rotate images.
+Filters: Apply various filters like brightness, contrast, and saturation.
+Real-time Preview: See changes in real-time as you edit.
+Download: Save the edited image locally after modifications.
+Responsive Design: Fully functional on both desktop and mobile devices.
+Technologies Used:
+
+HTML: Structures the app for efficient navigation.
+CSS: Styles the interface for a clean and easy-to-use layout.
+JavaScript: Implements the core image editing features and handles file manipulation.
+
+
 
