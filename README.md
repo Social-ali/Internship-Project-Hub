@@ -102,5 +102,22 @@ HTML: Structures the app for efficient navigation.
 CSS: Styles the interface for a clean and easy-to-use layout.
 JavaScript: Implements the core image editing features and handles file manipulation.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟭: 𝗠𝗮𝗿𝗶𝗻𝗱𝗮
+An engaging web-based application designed to provide users with a seamless experience for managing their tasks and projects.
+
+Features:
+Task Management: Create, edit, and delete tasks effortlessly.
+Project Organization: Group tasks into projects for better organization.
+Due Dates: Set due dates for tasks and receive reminders.
+User Authentication: Secure login and user management for personalized experiences.
+Real-time Collaboration: Share projects and collaborate with other users in real time.
+Responsive Design: Fully functional on both desktop and mobile devices.
+Technologies Used:
+HTML: Structures the application for efficient navigation and user interaction.
+CSS: Styles the interface for a clean and user-friendly layout.
+JavaScript: Implements core functionalities and handles data manipulation.
+Local Storage: Utilizes local storage for saving user data and preferences.
+
+
 
 
