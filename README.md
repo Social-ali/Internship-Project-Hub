@@ -118,6 +118,24 @@ CSS: Styles the interface for a clean and user-friendly layout.
 JavaScript: Implements core functionalities and handles data manipulation.
 Local Storage: Utilizes local storage for saving user data and preferences.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟮: 𝗦𝗼𝗹𝗮𝗿 𝗦𝘆𝘀𝘁𝗲𝗺-𝟯𝗗
+An interactive web-based application that visualizes the solar system in 3D, providing an engaging way to explore celestial bodies.
+
+Features:
+
+3D Visualization: Realistic representation of the solar system with orbiting planets.
+Planetary Information: Hover over planets to learn more about their characteristics and positions.
+Interactive Controls: Rotate, zoom, and explore the solar system from different angles.
+Responsive Design: Optimized for both desktop and mobile devices.
+Social Media Integration: Direct links to social media for easy sharing of the experience.
+Technologies Used:
+
+HTML: Structures the application for effective navigation.
+CSS: Styles the 3D environment and user interface.
+JavaScript: Manages 3D rendering and user interactions.
+WebGL/Three.js: Powers the 3D graphics for realistic planetary movement.
+
+
 
 
 
