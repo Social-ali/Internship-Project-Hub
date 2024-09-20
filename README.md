@@ -151,6 +151,26 @@ CSS: Styles the 3D environment and user interface.
 JavaScript: Manages 3D rendering and user interactions.
 WebGL/Three.js: Powers the 3D graphics for realistic planetary movement.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟰: 𝗠𝘂𝘀𝗲𝘂𝗺-𝗝𝗦
+An interactive web-based application that provides precise measurement tools for various applications, allowing users to measure distances, areas, and volumes with ease.
+
+Features:
+
+Precision Measurement: Accurate tools for measuring distances, areas, and volumes in real-time.
+User-Friendly Interface: Intuitive design for effortless navigation and measurement.
+Customizable Tools: Users can select different units of measurement and customize tool settings.
+Interactive Graphics: Visual representation of measurements on the canvas for better understanding.
+Responsive Design: Fully optimized for desktop and mobile devices for accessibility.
+Technologies Used:
+
+HTML: Structures the application for seamless user interaction.
+CSS: Styles the interface and enhances user experience.
+JavaScript: Handles measurement calculations and interactive features.
+Canvas API: Powers the graphics for accurate and dynamic measurement representation.
+
+
+
+
 
 
 
