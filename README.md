@@ -102,7 +102,23 @@ HTML: Structures the app for efficient navigation.
 CSS: Styles the interface for a clean and easy-to-use layout.
 JavaScript: Implements the core image editing features and handles file manipulation.
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟭: 𝗠𝗮𝗿𝗶𝗻𝗱𝗮
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟭: 𝗧𝗲𝘅𝘁 𝗧𝘆𝗽𝗶𝗻𝗴 𝗘𝗳𝗳𝗲𝗰𝘁
+An engaging text animation project that dynamically types and erases words, creating a visually appealing typing effect.
+
+Features:
+
+Smooth Typing Animation: Displays words one character at a time for a natural typing effect.
+Dynamic Text Switching: Automatically switches between multiple words or phrases with customizable delay and speed.
+Emoji Integration: Supports text and emoji combinations to enhance visual appeal.
+Customizable: Easy to modify words, typing speed, and delay between switches.
+Responsive Design: Works seamlessly across devices, ensuring consistent performance on both desktop and mobile.
+Technologies Used:
+
+HTML: Provides structure for displaying the animated text.
+CSS: Styles the text and animation for a clean, eye-catching effect.
+JavaScript: Implements the typing effect and dynamic word switching functionality.
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟮: 𝗠𝗮𝗿𝗶𝗻𝗱𝗮
 An engaging web-based application designed to provide users with a seamless experience for managing their tasks and projects.
 
 Features:
@@ -118,7 +134,7 @@ CSS: Styles the interface for a clean and user-friendly layout.
 JavaScript: Implements core functionalities and handles data manipulation.
 Local Storage: Utilizes local storage for saving user data and preferences.
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟮: 𝗦𝗼𝗹𝗮𝗿 𝗦𝘆𝘀𝘁𝗲𝗺-𝟯𝗗
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟯: 𝗦𝗼𝗹𝗮𝗿 𝗦𝘆𝘀𝘁𝗲𝗺-𝟯𝗗
 An interactive web-based application that visualizes the solar system in 3D, providing an engaging way to explore celestial bodies.
 
 Features:
@@ -134,6 +150,8 @@ HTML: Structures the application for effective navigation.
 CSS: Styles the 3D environment and user interface.
 JavaScript: Manages 3D rendering and user interactions.
 WebGL/Three.js: Powers the 3D graphics for realistic planetary movement.
+
+
 
 
 
