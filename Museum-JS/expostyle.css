@@ -1,0 +1,429 @@
+body {
+	background-color: #282c34;
+	color: white;
+	font-family: "Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Neue Metana";
+    src: url(NeueMetana-Regular.otf);
+  }
+
+.navbar>.container {
+	font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+	padding-top: 20px;
+	font-size: 10px;
+}
+
+h1 {
+	font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+	font-size: 130px;
+	font-weight: lighter;
+	color: white;
+}
+
+h2 {
+	font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+	font-size: 100px;
+	color: white;
+}
+
+h3 {
+ 	display: flex;
+  	justify-content: space-between;
+	font-family: "Neue Metana";
+	font-size: 25px;
+	font-weight: 100;
+	line-height: normal;
+	padding-top: 0px;
+}
+
+h4 {
+	font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+	font-size: 30px;
+	color: white;
+}
+
+h5 {
+	font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+	font-size: 30px;
+	color: black;
+}
+
+#button2 {
+	font-family: "Neue Metana";
+	font-size: 17px;
+	background-color: #df683e;
+	border-radius: 0cm;
+	border-color: #df683e;
+}
+
+#button2:hover {
+  background-color: #e74c3c;
+}
+
+footer {
+	font-family: "Neue Metana";
+	font-size: 21px;
+	display: flex;
+	align-items: center;
+  background-color: #ccc;
+}
+
+#form-control {
+	color: #000;
+	font-size: 18px;
+	border-color: black;
+}
+
+input {
+	border: 1px solid black;
+	width: 200px;
+	height: 40px;
+	font-family: "Neue Metana";
+	border-color: #ccc;
+	font-size: 18px;
+	padding-left: 15px;
+}
+
+::-moz-selection {
+	background: #555f41;
+}
+
+::selection {
+	color: #555f41;
+	background: white;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.3px solid white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  font-family: "Neue Metana";
+}
+
+a:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0.2em;
+  border-bottom: 0.4px solid white;
+  z-index: -10;
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+a:hover:before {
+  transform: scaleX(1);
+  z-index: -10;
+}
+
+a:hover {
+  color: white;
+  z-index: 1!important;
+}
+
+/* Default style */
+.logo::before {
+  content: "RIJKS MUSEUM";
+}
+
+/* Media query for smaller screens */
+@media (max-width: 576px) {
+  .logo::before {
+    content: "RM";
+    display: inline-block;
+  }
+}
+
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 25px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  border-radius: 60px;
+  -webkit-transition: .4s;
+  transition: .4s;
+  
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  border-radius: 60px;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #df683e;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #df683e;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+
+
+/*Side menu */
+
+
+.navbar-toggler {
+   background-color: white;
+   border-radius: 0px;
+   cursor: pointer;
+   margin-top: -15px;
+   padding: 10px;
+}
+
+.hamburger-bar {
+  height: 1px;
+  width: 20px;
+  border-color: #ccc;
+  border-radius: 0px;
+  background-color: black;
+  margin: 3px 0;
+  transition: transform 0.3s;
+}
+
+.side-menu {
+position: fixed;
+margin-top: 0px;
+right: 0;
+height: 100%;
+width: 0;
+z-index: 999;
+overflow-x: hidden;
+transition: 0.8s;
+background: white;
+opacity: 1;
+white-space: nowrap;
+}
+
+
+.side-menu label {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.side-menu ul {
+  list-style: none;
+  padding: 0;
+  margin-left: 15px;
+}
+
+.side-menu .menu-links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  white-space: nowrap;
+}
+
+.side-menu .menu-links a {
+  font-size: 45px;
+  list-style: none;
+  margin: 20px;
+  color: tomato;
+  text-decoration: none;
+  transition: 0.3s;
+  white-space: nowrap;
+}
+
+.active {
+  content: '';
+  display: block;
+  margin-top: 0px;
+  height: 100%;
+  position: absolute;
+  transition: all 0.8s ease-out;
+  width: 100%;
+}
+
+
+#a2 {
+  text-decoration: none;
+  position: relative;
+  font-family: "Neue Metana";
+  color: black;
+  font-size: 20px;
+  padding: 0;
+  white-space: nowrap;
+}
+
+#a2:before {
+  display: none;
+}
+
+
+/* Default style */
+.logo::before {
+  content: "Rijks Museum";
+}
+
+/* Media query for smaller screens */
+@media (max-width: 576px) {
+  .logo::before {
+    content: "RM";
+    display: inline-block;
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+
+  #intro {
+    font-size: 60px;
+  }
+
+  h2 {
+    font-size: 50px;
+  }
+
+  h3 {
+    font-size: 16px;
+    width: 340px;
+  }
+
+  .navbar>.container {
+    font-size: 8px;
+  }
+
+  .side-menu .menu-links a {
+    font-size: 25px;
+    margin: 15px;
+  }
+
+}
+
+
+
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+}
+
+.container h4 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+}
+
+#button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+#button-container button {
+  padding: 0.5rem;
+  margin: 0 0.5rem;
+  background-color: #df683e;;
+  color: white;
+  border: none;
+  border-radius: none;
+  cursor: pointer;
+  font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+}
+
+#button-container button:hover {
+  background-color: #e74c3c;
+}
+
+#delete-button {
+  background-color: #f1c40f;
+  color: #000;
+  font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+}
+
+#delete-button:hover {
+  background-color: #f7dc6f;
+}
+
+#card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+#card-container > div {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #ecf0f1;
+  border-radius: 0.25rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  color:#000;
+}
+
+#card-container img {
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#card-container p {
+  font-size: 1rem;
+  margin-bottom: 0;
+  font-family: "Neue Metana";
+	src: url("neuemetana-regular.otf") format("truetype");
+  color:#000;
+}
