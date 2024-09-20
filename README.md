@@ -155,7 +155,6 @@ WebGL/Three.js: Powers the 3D graphics for realistic planetary movement.
 An interactive web-based application that provides precise measurement tools for various applications, allowing users to measure distances, areas, and volumes with ease.
 
 Features:
-
 Precision Measurement: Accurate tools for measuring distances, areas, and volumes in real-time.
 User-Friendly Interface: Intuitive design for effortless navigation and measurement.
 Customizable Tools: Users can select different units of measurement and customize tool settings.
@@ -167,6 +166,23 @@ HTML: Structures the application for seamless user interaction.
 CSS: Styles the interface and enhances user experience.
 JavaScript: Handles measurement calculations and interactive features.
 Canvas API: Powers the graphics for accurate and dynamic measurement representation.
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟱: 𝗟𝗶𝘁𝘁𝗹𝗲 𝗙𝗮𝘀𝗵𝗶𝗼𝗻 𝗪𝗲𝗯
+An interactive web-based application designed to showcase the latest fashion trends, allowing users to browse, filter, and shop for stylish clothing effortlessly.
+
+Features:
+Trend Showcase: Highlights the latest fashion items with stylish visuals and detailed descriptions.
+User-Friendly Interface: Intuitive navigation ensures a smooth shopping experience.
+Filter Options: Users can filter clothing by categories, sizes, and colors for personalized browsing.
+Responsive Design: Fully optimized for both desktop and mobile devices, ensuring accessibility and usability across platforms.
+Shopping Cart Integration: Seamless functionality for adding items to the cart and proceeding to checkout.
+
+Technologies Used:
+HTML: Structures the application for optimal user interaction.
+CSS: Styles the interface, creating an appealing and engaging user experience.
+JavaScript: Powers interactive features, including the shopping cart and filtering options.
+Responsive Design: Utilizes media queries for an adaptive layout across different screen sizes.
+
 
 
 
