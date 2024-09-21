@@ -183,7 +183,7 @@ CSS: Styles the interface, creating an appealing and engaging user experience.
 JavaScript: Powers interactive features, including the shopping cart and filtering options.
 Responsive Design: Utilizes media queries for an adaptive layout across different screen sizes.
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟲: 𝗡𝗮𝗶𝗹 𝗩𝗼𝗴𝘂𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟲: 𝗡𝗮𝗶𝗹 𝗩𝗼𝗴𝘂𝗲 
 An interactive web application dedicated to showcasing the latest nail art trends, enabling users to explore, filter, and shop for nail products effortlessly.
 
 Features:
