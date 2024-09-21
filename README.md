@@ -198,6 +198,21 @@ CSS: Styles the interface for an appealing user experience.
 JavaScript: Powers interactive features, including the shopping cart and filtering options.
 Responsive Design: Utilizes media queries for an adaptive layout on various screen sizes.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟳: 𝗖𝗮𝘁𝗮𝗹𝗼𝗴 𝗪𝗲𝗯𝘀𝗶𝘁𝗲
+An interactive web application designed to showcase a diverse range of products, allowing users to browse, filter, and shop effortlessly.
+
+Features:
+Product Showcase: Displays a wide array of items with high-quality visuals and detailed descriptions.
+User-Friendly Interface: Intuitive navigation for a smooth browsing experience.
+Filter Options: Users can filter products by category, price, and rating for personalized selections.
+Responsive Design: Fully optimized for both desktop and mobile devices, ensuring accessibility and usability across platforms.
+Shopping Cart Integration: Seamless functionality for adding items to the cart and completing purchases.
+Technologies Used:
+HTML: Structures the application for optimal user interaction.
+CSS: Styles the interface, creating an appealing and engaging user experience.
+JavaScript: Powers interactive features, including the shopping cart and filtering options.
+Responsive Design: Utilizes media queries for an adaptive layout across various screen sizes.
+
 
 
 
