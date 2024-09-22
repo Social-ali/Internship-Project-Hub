@@ -213,6 +213,21 @@ CSS: Styles the interface, creating an appealing and engaging user experience.
 JavaScript: Powers interactive features, including the shopping cart and filtering options.
 Responsive Design: Utilizes media queries for an adaptive layout across various screen sizes.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟴: 𝗢𝗟𝗫 𝗖𝗹𝗼𝗻𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻
+An interactive web application designed to facilitate buying and selling second-hand products, mimicking the functionalities of OLX for a seamless marketplace experience.
+Features:
+Product Listings: Users can browse a diverse range of second-hand items, complete with high-quality images and detailed descriptions.
+User-Friendly Interface: Intuitive navigation and search functionality for effortless browsing and finding products.
+Filter Options: Users can filter listings by category, price range, and location for tailored search results.
+Responsive Design: Fully optimized for both desktop and mobile devices, ensuring a consistent experience across platforms.
+User Accounts: Allows users to create accounts for saving favorites and managing listings.
+Messaging System: Integrated messaging feature for buyers and sellers to communicate directly within the app.
+Technologies Used:
+HTML: Structures the application for optimal user interaction and accessibility.
+CSS: Styles the interface, creating an appealing and engaging user experience.
+JavaScript: Powers interactive features, including filtering options and dynamic listings.
+Responsive Design: Utilizes media queries for an adaptive layout across various screen sizes
+
 
 
 
