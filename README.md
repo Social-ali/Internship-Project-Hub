@@ -228,6 +228,21 @@ CSS: Styles the interface, creating an appealing and engaging user experience.
 JavaScript: Powers interactive features, including filtering options and dynamic listings.
 Responsive Design: Utilizes media queries for an adaptive layout across various screen sizes
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟭𝟵: 𝗕𝗿𝗲𝗲𝘇𝗲𝗔𝘂𝗱𝗶𝗼-𝗘𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲-𝗦𝗶𝘁𝗲
+Description: An interactive web application designed to showcase and sell high-quality headphones, providing a seamless shopping experience for audio enthusiasts.
+Features:
+Product Showcase: Browse a variety of headphones with detailed descriptions.
+User-Friendly Interface: Intuitive navigation for easy product discovery.
+Filter Options: Filter by category, price, and ratings.
+Responsive Design: Optimized for both desktop and mobile devices.
+Shopping Cart: Add items to the cart and complete purchases.
+User Accounts: Save favorites and manage orders.
+Customer Reviews: Share feedback on products.
+Technologies Used:
+HTML, CSS, JavaScript: For structure, styling, and interactivity.
+Responsive Design: Utilizes media queries for adaptive layouts.
+
+
 
 
 
