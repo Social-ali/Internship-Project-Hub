@@ -242,6 +242,23 @@ Technologies Used:
 HTML, CSS, JavaScript: For structure, styling, and interactivity.
 Responsive Design: Utilizes media queries for adaptive layouts.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟬: 𝗪𝗮𝗻𝗱𝗲𝗿𝗪𝗮𝘃𝗲-𝗧𝗿𝗮𝘃𝗲𝗹-𝗪𝗲𝗯𝘀𝗶𝘁𝗲
+Description: An interactive web application designed to inspire and facilitate travel planning, offering users a seamless experience to discover destinations, book trips, and share adventures.
+Features:
+Destination Explorer: Browse a variety of travel destinations with rich content.
+User-Friendly Interface: Intuitive navigation for effortless trip planning.
+Itinerary Builder: Create and customize travel itineraries easily.
+Responsive Design: Fully optimized for both desktop and mobile devices.
+User Accounts: Save favorite trips and manage bookings.
+Travel Reviews: Share and read experiences from other travelers.
+Technologies Used:
+HTML, CSS, JavaScript: For structure, styling, and interactivity.
+Responsive Design: Utilizes media queries for adaptive layouts.
+This project aims to enhance the travel planning experience, making it accessible and enjoyable for users.
+
+
+
+
 
 
 
