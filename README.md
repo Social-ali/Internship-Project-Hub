@@ -284,6 +284,22 @@ React.js: For building dynamic user interfaces and enhancing interactivity.
 CSS Modules: For modular and maintainable styling.
 API Integration: Utilizes third-party weather APIs to fetch real-time data.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟯: 𝗘𝘅𝗰𝗵𝗮𝗻𝗴𝗲 𝗘𝘅𝗽𝗿𝗲𝘀𝘀 (𝗥-𝗷𝘀#𝟯)
+Description: An interactive web application designed to facilitate real-time currency exchange rates and conversions, empowering users to make informed financial decisions with up-to-date information.
+Features:
+Real-Time Exchange Rates: Display current exchange rates for various currencies, updated in real-time.
+Currency Converter: Easily convert amounts between different currencies with accurate calculations.
+User-Friendly Interface: Intuitive design for seamless navigation and quick access to currency information.
+Responsive Design: Fully optimized for both desktop and mobile devices, allowing users to check rates on the go.
+Historical Data: Access historical exchange rate data to analyze trends over time.
+Multi-Currency Support: Supports a wide range of currencies for comprehensive exchange options.
+Technologies Used:
+React.js: For building dynamic user interfaces and enhancing interactivity.
+CSS Modules: For modular and maintainable styling.
+API Integration: Utilizes third-party currency exchange APIs to fetch real-time data.
+
+
+
 
 
 
