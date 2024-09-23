@@ -256,6 +256,20 @@ HTML, CSS, JavaScript: For structure, styling, and interactivity.
 Responsive Design: Utilizes media queries for adaptive layouts.
 This project aims to enhance the travel planning experience, making it accessible and enjoyable for users.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟭: 𝗠𝘆-𝘁𝗲𝘅𝘁 (𝗥-𝗷𝘀#𝟭)
+Description: A user-friendly web application designed to facilitate text editing and note-taking, providing users with an efficient platform for organizing and managing their written content.
+Features:
+Text Editing Tools: Simple and effective editing options for creating and modifying text.
+Organized Note Management: Easily categorize and manage notes for quick retrieval.
+User-Friendly Interface: Intuitive design for seamless navigation and efficient use.
+Responsive Design: Fully optimized for desktop and mobile devices, allowing access on the go.
+Search Functionality: Quickly find specific notes or text entries.
+Auto-Save Feature: Ensures that users’ work is saved automatically to prevent data loss.
+Technologies Used:
+React.js: For building dynamic user interfaces and enhancing interactivity.
+CSS Modules: For modular and maintainable styling.
+Local Storage: To store user notes and preferences securely on the client side.
+
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟮: 𝗪𝗲𝗮𝘁𝗵𝗲𝗿𝗪𝗶𝘀𝗲 (𝗥-𝗷𝘀#𝟮)
 Description: An interactive web application designed to provide users with real-time weather updates and forecasts, enhancing their planning and outdoor activities with accurate and accessible information.
 Features:
@@ -269,6 +283,8 @@ Technologies Used:
 React.js: For building dynamic user interfaces and enhancing interactivity.
 CSS Modules: For modular and maintainable styling.
 API Integration: Utilizes third-party weather APIs to fetch real-time data.
+
+
 
 
 
