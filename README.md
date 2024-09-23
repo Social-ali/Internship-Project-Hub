@@ -256,6 +256,22 @@ HTML, CSS, JavaScript: For structure, styling, and interactivity.
 Responsive Design: Utilizes media queries for adaptive layouts.
 This project aims to enhance the travel planning experience, making it accessible and enjoyable for users.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟮: 𝗪𝗲𝗮𝘁𝗵𝗲𝗿𝗪𝗶𝘀𝗲 (𝗥-𝗷𝘀#𝟮)
+Description: An interactive web application designed to provide users with real-time weather updates and forecasts, enhancing their planning and outdoor activities with accurate and accessible information.
+Features:
+Current Weather Overview: Display real-time weather conditions for selected locations.
+Forecasting Tools: Access daily and hourly weather forecasts to plan ahead.
+User-Friendly Interface: Intuitive design for easy navigation and quick access to information.
+Responsive Design: Fully optimized for both desktop and mobile devices for on-the-go access.
+Location Search: Effortlessly search for weather information in various cities.
+Weather Alerts: Receive notifications about severe weather conditions.
+Technologies Used:
+React.js: For building dynamic user interfaces and enhancing interactivity.
+CSS Modules: For modular and maintainable styling.
+API Integration: Utilizes third-party weather APIs to fetch real-time data.
+
+
+
 
 
 
