@@ -298,6 +298,20 @@ React.js: For building dynamic user interfaces and enhancing interactivity.
 CSS Modules: For modular and maintainable styling.
 API Integration: Utilizes third-party currency exchange APIs to fetch real-time data.
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟯: 𝗛𝗼𝗼𝗯𝗮𝗻𝗸 (𝗥-𝗷𝘀#𝟰)
+Hoobank is a React.js-based web application that delivers a streamlined and intuitive digital banking experience. Built with Vite for fast development, it offers users a responsive and modern interface, simplifying the management of their financial activities.
+
+Key features:
+User-friendly and responsive design
+Efficient handling of banking transactions
+Fast development and build times with Vite
+
+Technologies used:
+React.js
+Vite
+CSS Modules
+
+
 
 
 
