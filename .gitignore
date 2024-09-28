@@ -1,0 +1,76 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Public folder (if applicable)
+public/
+
+# Miscellaneous
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore any other files you want to exclude
+*.pem
+*.p12
+
+# Folders you might want to ignore based on your projects
+Fashion store/
+Catalog-website/
+certificate-generator/
+CMS/
+Coffee Website/
+Currency exchange/
+Dashboard-master/
+Dictionary App/
+DrawingApp/
+Expense-Tracker/
+Express-Exchange/
+Hoobank/
+Image Editor JS/
+IMDB-clone-ReactWeb/
+Marinda/
+material-dashboard/
+Museum-JS/
+Nail-vogue/
+OLX-Clone/
+QuizWhiz/
+Solar system-3D/
+Typing Text Effect/
+Vibevault-mp/
+WabderWave-Travel/
+WeatherWise/
