@@ -298,7 +298,7 @@ React.js: For building dynamic user interfaces and enhancing interactivity.
 CSS Modules: For modular and maintainable styling.
 API Integration: Utilizes third-party currency exchange APIs to fetch real-time data.
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟯: 𝗛𝗼𝗼𝗯𝗮𝗻𝗸 (𝗥-𝗷𝘀#𝟰)
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟰: 𝗛𝗼𝗼𝗯𝗮𝗻𝗸 (𝗥-𝗷𝘀#𝟰)
 Hoobank is a React.js-based web application that delivers a streamlined and intuitive digital banking experience. Built with Vite for fast development, it offers users a responsive and modern interface, simplifying the management of their financial activities.
 
 Key features:
@@ -310,6 +310,87 @@ Technologies used:
 React.js
 Vite
 CSS Modules
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟱: 𝗖𝗠𝗦 (𝗥-𝗷𝘀#𝟱)
+CMS is a React.js project that serves as a content management system, offering an efficient platform for creating, editing, and organizing content. Built with Vite, it provides an intuitive and user-friendly interface for seamless content management.
+
+Key Features:
+User-friendly and responsive design
+Efficient content management tools
+Fast development and build times with Vite
+
+Technologies Used:
+React.js
+Vite
+CSS Modules
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟲: 𝗤𝘂𝗶𝘇𝗪𝗵𝗶𝘇 (𝗥-𝗷𝘀#𝟲)
+QuizWhiz is a React.js-based interactive quiz application that allows users to test their knowledge on various topics. The project utilizes Vite for a smooth and fast development experience, ensuring a responsive and engaging user interface.
+
+Key Features:
+User-friendly and responsive design
+Interactive quizzes with real-time feedback
+Fast development and build times with Vite
+
+Technologies Used:
+React.js
+Vite
+CSS Modules
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟳: 𝗩𝗶𝗯𝗲𝘃𝗮𝘂𝗹𝘁-𝗺𝗽 (𝗥-𝗷𝘀#𝟳)
+Vibevault-mp is a React.js project designed for music enthusiasts, providing an interactive platform to explore and play music. Built with Vite, it features a sleek and responsive design for a seamless music experience.
+
+Key Features:
+User-friendly and responsive design
+Music player with playlist management
+Fast development and build times with Vite
+
+Technologies Used:
+React.js
+Vite
+CSS Modules
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟴: 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 (𝗥-𝗷𝘀#𝟴)
+Dashboard is a React.js-based project that offers an all-in-one solution for monitoring and managing data. Built with Vite, it provides users with customizable widgets and data visualizations to effectively track key metrics.
+
+Key Features:
+User-friendly and responsive design
+Interactive data visualization and customizable widgets
+Fast development and build times with Vite
+
+Technologies Used:
+React.js
+Vite
+CSS Modules
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟮𝟵: 𝗜𝗠𝗗𝗯-𝗖𝗹𝗼𝗻𝗲 (𝗥-𝗷𝘀#𝟵)
+IMDb-Clone is a React.js project that replicates the features of IMDb, offering users the ability to browse movies, TV shows, and ratings. Built with Vite, it ensures fast and smooth navigation with a modern and responsive design.
+
+Key Features:
+User-friendly and responsive design
+Browse movies, TV shows, and ratings
+Fast development and build times with Vite
+
+Technologies Used:
+React.js
+Vite
+CSS Modules
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 #𝟯𝟬: 𝗙𝗮𝘀𝗵𝗶𝗼𝗻 𝗦𝘁𝗼𝗿𝗲 (𝗥-𝗷𝘀#𝟭𝟬)
+Fashion Store is a React.js-based e-commerce application tailored for fashion enthusiasts. Built with Vite, it offers users an engaging and responsive shopping experience, making it easy to browse and purchase items.
+
+Key Features:
+User-friendly and responsive design
+Product browsing, shopping cart, and checkout functionality
+Fast development and build times with Vite
+
+Technologies Used:
+React.js
+Vite
+CSS Modules
+
+
+
 
 
 
